@@ -1,0 +1,14 @@
+{
+    "elements": {},
+    "attributes": {
+        "integrity": {
+            "context": "link"
+        },
+        "no-repeat": {
+            "context": "body"
+        },
+        "height": {
+            "context": "tr"
+        }
+    }
+}
